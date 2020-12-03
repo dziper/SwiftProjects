@@ -1,0 +1,26 @@
+{
+    "countries":
+        [
+            {
+                "name": "United States of America",
+                "population": 328200000,
+                "dateFounded": "July 4, 1776",
+                "facts": ["The flag had 27 versions", "The Statue of Liberty is a gift from France"]
+            },{
+                "name": "United Kingdom",
+                "population": 66650000,
+                "dateFounded": "1922",
+                "facts": ["Tea is the most popular drink", "The national dish, Chicken Takka, is Indian"]
+            },{
+                "name": "France",
+                "population": 66990000,
+                "dateFounded": "September 22, 1792",
+                "facts": ["It's the worlds most popular tourist destination", "Home to the world’s oldest ever human"]
+            },{
+                "name": "Russia",
+                "population": 144500000,
+                "dateFounded": "December 25, 1991",
+                "facts": ["It had the worlds largest McDonalds", "It is the largest country by area"]
+            }
+        ]
+}
